@@ -1,0 +1,441 @@
+The sum of infinity is now equivalent to group theory parallel cardinal of the continuum 
+The equation answer is
+
+
+Here's a fun little brain wrinkle pinch for all you non-math people out there (that should be everyone in the world*): the sum of all natural numbers, from one to infinity, is not a ridiculously big number like you would expect but actually just -1/12. Yes, the sum of every number from one to infinity is some weird negative fraction.
+
+Table of Contents | Introduction | Home
+
+P l a n e   G e o m e t r y
+An Adventure in Language and Logic
+based on
+
+
+
+
+
+
+14
+
+THE THEORY OF PARALLEL LINES
+Book I.  PROPOSITIONS 29, 30, and POSTULATE 5
+Proposition 29
+Postulate 5 versus Playfair's Axiom
+Proposition 30
+HERE AGAIN is  Proposition 27.
+If a straight line that meets two straight lines makes the alternate angles equal, then the two straight lines are parallel.
+We are about to prove Proposition 29, which is its converse:
+If two straight lines are parallel, then a straight line that meets them makes the alternate angles equal.
+To prove that the alternate angles are equal, we must have a sufficient condition for their being equal. But this proposition is the condition. Therefore we will have to prove this proposition indirectly. Now, a sufficient condition for the alternate angles not being equal is the following partial inverse to Proposition 28:
+If a straight line that meets two straight lines makes the interior angles on the same side less than two right angles, then those two straight lines, if extended, will meet on that same side.
+
+That is, if the angles BGH, GHD are not equal to two right angles, then the straight lines AB, CD are not parallel.
+The question is: Is it possible to prove that from the existing first principles?
+The answer, the student may be surprised to learn, is no. Mathematicians tried for over two thousand years. But from the existing first principles, no one could. It is in fact Euclid's famous, and controversial,  Postulate 5.
+Here then is Proposition 29. It is the converse of Proposition 27and Proposition 28 combined. The indirect proof assumes that the alternate angles are not equal. It will then turn out the straight lines are not parallel -- which by hypothesis they are! The proof will require Postulate 5.
+PROPOSITION 29.  THEOREM
+If two straight lines are parallel, then a straight line that meets them makes the alternate angles equal, it makes the exterior angle equal to the opposite interior angle on the same side, and it makes the interior angles on the same side equal to two right angles. 
+ 
+Let the straight lines AB, CD be parallel, and let the straight line EF meet them;
+then it makes the alternate angles AGH, GHD equal;
+it makes the exterior angle EGB equal to the opposite interior angle GHD;
+and it makes the interior angles on the same side, angles BGH, GHD, equal to two right angles.
+ 
+
+ 
+(We will prove only up to "makes the alternate angles equal."  The rest will be left to the student. Problem 4.)
+ 
+For, if angle AGH is not equal to angle GHD, then one of them is greater.
+ 
+Let angle AGH be greater than angle GHD;
+ 
+and to each of them join angle BGH;
+ 
+then angles BGH, AGH are greater than angles BGH, GHD.
+ 
+But angles BGH, AGH are together equal to two right angles;
+(I. 13)
+ 
+therefore angles BGH, GHD are together less than two right angles.
+ 
+But straight lines if extended from angles less than two right angles, will meet. 
+(Postulate 5)
+ 
+Therefore AB, CD, if extended, will meet.
+ 
+But they do not meet because by hypothesis they are parallel.
+ 
+Therefore angle AGH is not unequal to angle GHD;
+ 
+it is equal to it.
+ 
+Therefore, if two straight lines etc.  Q.E.D.
+Postulate 5 versus Playfair's Axiom
+In his Notes on the Elements, Todhunter observes,
+The theory of parallel straight lines has always been considered the great difficulty of elementary geometry, and many attempts have been made to overcome the difficulty in a better way than Euclid had done.
+(Elibron Classics, page 262.) He is referring of course to the fifth Postulate. Nevertheless, he continues,
+. . . after the axiom is once admitted, the remaining process is simple and clear.
+
+We can gain some insight into Postulate 5 in this figure. The straight line EF is perpendicular to both AB and CD -- angles BEF, EFD are two right angles. And we can see that AB, CD are therefore parallel.
+But if GH is any straight line that meets AB, CD, and angles EGH, GHF are together equal to two right angles, then again AB, CD are parallel. (I-28)
+Finally, if, when EF meets JK and CD, it makes the interior angles on the same side  less than two right angles, then JK, CD are not parallel, and they will meet on that same side.
+That is Postulate 5.
+Some writers however have replaced Postulate 5 with the following, which they think is intuitively simpler:
+Two intersecting straight lines cannot both be parallel to a third line.
+
+That is, through the point G it is impossible that both AB and KL are parallel to CD.
+The student should not be fooled by the word games of the non-Euclidean geometries, which also contain the term "straight line." They are non-Euclidean because the surface in question is not a plane.
+The proposition above has been called Playfair's Axiom, after the 18th century English mathematician John Playfair. If we grant it in place of Postulate 5, then, in Propostion 29 we would again assume that the alternate angles AGH, GHD are not equal. We would continue:
+Draw a straight line KL through G that makes angle KGH equal to angle GHD.
+
+
+Then, since those alternate angles are equal, KL is parallel to CD. 
+(I. 27)
+
+Therefore the two straight lines KL, AB that intersect at G are both parallel to CD,
+which is impossible.  (Playfair's Axiom)
+Therefore, angles AGH, GHD are not unequal; they are equal.  Q.E.D.
+Now, upon granting Playfair's Axiom, it is possible to prove Postulate 5 as a theorem. And conversely, if we grant Postulate 5, then we can prove Playfair's Axiom. (Problem 5.) The choice of which propositions to take as the postulates and which to take as the theorems is simply that: a matter of choice. Ultimately, the choice is aesthetic. The postulates typically are those which appear most elementary, or which make the least strain on the intellect, or which in some way are immediately satisfying. (These are aesthetic choices, because a postulate must appear that way to someone.) Thus, as Heath points out (Dover, page 313), Playfair asks us to assume what is impossibile, namely that two intersecting lines cannot both be parallel to a third, while Euclid asserts what is possible, namely that two straight lines under certain conditions will meet.
+The two postulates nevertheless are equivalent to one another, in the sense that we can deduce each one from the other. We see therefore that there is no unique set of postulates from which to deduce the remainder of a theory. Hence there is never a unique reason why we say that a theorem is true.
+For, the theorems are true whether we prove them or not. They are not true because we prove them. We prove them because they are true.
+
+PROPOSITION 30.  THEOREM
+Straight lines that are parallel to the same straight line are parallel to one another.
+We leave the rest to the student. (Problem 7)
+Please "turn" the page and do some Problems.
+or
+Continue on to the next proposition.
+Previous proposition
+Table of Contents | Introduction | Home
+
+
+Please make a donation to keep TheMathPage online. 
+Even $1 will help.
+
+
+Copyright © 2015 Lawrence Spector
+Questions or comments?
+E-mail:  themathpage@nyc.rr.com
+
+Open main menu
+
+
+* 		Edit Watch this page 
+Cardinality of the continuum
+In set theory, the cardinality of the continuum is the cardinality or “size” of the set of real numbers 
+
+, sometimes called the continuum. It is an infinite cardinal number and is denoted by 
+
+ or 
+
+ (a lowercase fraktur script "c").
+The real numbers 
+
+ are more numerous than the natural numbers 
+
+. Moreover, 
+
+ has the same number of elements as the power set of 
+
+. Symbolically, if the cardinality of 
+
+ is denoted as 
+
+, the cardinality of the continuum is
+
+This was proven by Georg Cantor in his 1874 uncountability proof, part of his groundbreaking study of different infinities, and later more simply in his diagonal argument. Cantor defined cardinality in terms of bijective functions: two sets have the same cardinality if and only if there exists a bijective function between them.
+Between any two real numbers a < b, no matter how close they are to each other, there are always infinitely many other real numbers, and Cantor showed that they are as many as those contained in the whole set of real numbers. In other words, the open interval (a,b) is equinumerous with 
+
+ This is also true for several other infinite sets, such as any n-dimensional Euclidean space 
+
+ (see space filling curve). That is,
+
+The smallest infinite cardinal number is 
+
+ (aleph-naught). The second smallest is 
+
+ (aleph-one). The continuum hypothesis, which asserts that there are no sets whose cardinality is strictly between 
+
+ and 
+
+, implies that 
+
+.
+
+
+
+Contents
+* 		Properties
+    * 		Uncountability
+        * 		
+    * 		Cardinal equalities
+        * 		
+    * 		Alternative explanation for 
+
+        * 		
+* 		Beth numbers
+    * 		
+* 		The continuum hypothesis
+    * 		
+* 		Sets with cardinality of the continuum
+    * 		
+* 		Sets with greater cardinality
+    * 		
+* 		References
+    * 		
+
+
+
+Properties
+Edit
+Uncountability
+Edit
+Georg Cantor introduced the concept of cardinality to compare the sizes of infinite sets. He famously showed that the set of real numbers is uncountably infinite; i.e. 
+
+ is strictly greater than the cardinality of the natural numbers, 
+
+:
+
+In other words, there are strictly more real numbers than there are integers. Cantor proved this statement in several different ways. See Cantor's first uncountability proof and Cantor's diagonal argument.
+Cardinal equalities
+Edit
+A variation on Cantor's diagonal argument can be used to prove Cantor's theorem which states that the cardinality of any set is strictly less than that of its power set, i.e. |A| < 2|A|, and so the power set P(N) of the natural numbers N is uncountable. In fact, it can be shown that the cardinality of P(N) is equal to 
+
+:
+1. Define a map f : R → P(Q) from the reals to the power set of the rationals by sending each real number x to the set 
+
+2.  of all rationals less than or equal to x (with the reals viewed as Dedekind cuts, this is nothing other than the inclusion map in the set of sets of rationals). This map is injective since the rationals are dense in R. Since the rationals are countable we have that 
+
+3. .
+4. Let {0,2}N be the set of infinite sequences with values in set {0,2}. This set clearly has cardinality 
+
+5.  (the natural bijectionbetween the set of binary sequences and P(N) is given by the indicator function). Now associate to each such sequence (ai) the unique real number in the interval [0,1] with the ternary-expansion given by the digits (ai), i.e. the i-th digit after the decimal point is ai. The image of this map is called the Cantor set. It is not hard to see that this map is injective, for by avoiding points with the digit 1 in their ternary expansion we avoid conflicts created by the fact that the ternary-expansion of a real number is not unique. We then have that 
+
+6. .
+By the Cantor–Bernstein–Schroeder theorem we conclude that
+
+(A different proof of 
+
+ is given in Cantor's diagonal argument. This proof constructs a bijection from {0,1}N to R.)
+The cardinal equality 
+
+ can be demonstrated using cardinal arithmetic:
+
+By using the rules of cardinal arithmetic one can also show that
+
+where n is any finite cardinal ≥ 2, and
+
+where 
+
+ is the cardinality of the power set of R, and 
+
+.
+Alternative explanation for 
+
+Edit
+Every real number has at least one infinite decimal expansion. For example,
+1/2 = 0.50000...
+1/3 = 0.33333...
+
+ = 3.14159....
+(This is true even when the expansion repeats as in the first two examples.) In any given case, the number of digits is countable since they can be put into a one-to-one correspondence with the set of natural numbers 
+
+. This fact makes it sensible to talk about (for example) the first, the one-hundredth, or the millionth digit of 
+
+. Since the natural numbers have cardinality 
+
+ each real number has 
+
+ digits in its expansion.
+Since each real number can be broken into an integer part and a decimal fraction, we get
+
+since
+
+On the other hand, if we map 
+
+ to 
+
+ and consider that decimal fractions containing only 3 or 7 are only a part of the real numbers, then we get
+
+and thus
+
+
+Beth numbers
+Edit
+Main article: Beth number
+The sequence of beth numbers is defined by setting 
+
+ and 
+
+. So 
+
+ is the second beth number, beth-one:
+
+The third beth number, beth-two, is the cardinality of the power set of R (i.e. the set of all subsets of the real line):
+
+
+The continuum hypothesis
+Edit
+Main article: Continuum hypothesis
+The famous continuum hypothesis asserts that 
+
+ is also the second aleph number 
+
+. In other words, the continuum hypothesis states that there is no set 
+
+ whose cardinality lies strictly between 
+
+ and 
+
+
+This statement is now known to be independent of the axioms of Zermelo–Fraenkel set theory with the axiom of choice (ZFC). That is, both the hypothesis and its negation are consistent with these axioms. In fact, for every nonzero natural number n, the equality 
+
+ = 
+
+ is independent of ZFC (the case 
+
+ is the continuum hypothesis). The same is true for most other alephs, although in some cases equality can be ruled out by König's theorem on the grounds of cofinality, e.g., 
+
+ In particular, 
+
+ could be either 
+
+ or 
+
+, where 
+
+ is the first uncountable ordinal, so it could be either a successor cardinal or a limit cardinal, and either a regular cardinal or a singular cardinal.
+
+Sets with cardinality of the continuum
+Edit
+A great many sets studied in mathematics have cardinality equal to 
+
+. Some common examples are the following:
+* the real numbers 
+
+* any (nondegenerate) closed or open interval in 
+
+*  (such as the unit interval 
+
+* )
+For instance, for all 
+
+ such that 
+
+ we can define the bijection
+
+Now we show the cardinality of an infinite interval. For all 
+
+ we can define the bijection
+
+and similarly for all 
+
+
+* the irrational numbers
+* the transcendental numbers
+We note that the set of real algebraic numbers is countably infinite (assign to each formula its Gödel number.) So the cardinality of the real algebraic numbers is 
+
+. Furthermore, the real algebraic numbers and the real transcendental numbers are disjoint sets whose union is 
+
+. Thus, since the cardinality of 
+
+ is 
+
+, the cardinality of the real transcendental numbers is 
+
+. A similar result follows for complex transcendental numbers, once we have proved that 
+
+.
+* the Cantor set
+* Euclidean space 
+
+* [1]
+* the complex numbers 
+
+We note that, per Cantor's proof of the cardinality of Euclidean space,[1] 
+
+. By definition, any 
+
+ can be uniquely expressed as 
+
+ for some 
+
+. We therefore define the bijection
+
+* the power set of the natural numbers 
+
+*  (the set of all subsets of the natural numbers)
+* the set of sequences of integers (i.e. all functions 
+
+* , often denoted 
+
+* )
+* the set of sequences of real numbers, 
+
+* the set of all continuous functions from 
+
+*  to 
+
+* the Euclidean topology on 
+
+*  (i.e. the set of all open sets in 
+
+* )
+* the Borel σ-algebra on 
+
+*  (i.e. the set of all Borel sets in 
+
+* ).
+
+Sets with greater cardinality
+Edit
+Sets with cardinality greater than 
+
+ include:
+* the set of all subsets of 
+
+*  (i.e., power set 
+
+* )
+* the set 2R of indicator functions defined on subsets of the reals (the set 
+
+*  is isomorphic to 
+
+*  – the indicator function chooses elements of each subset to include)
+* the set 
+
+*  of all functions from 
+
+*  to 
+
+* the Lebesgue σ-algebra of 
+
+* , i.e., the set of all Lebesgue measurable sets in 
+
+* .
+* the Stone–Čech compactifications of 
+
+* , 
+
+*  and 
+
+* the set of all automorphisms of the ﬁeld of complex numbers.
+These all have cardinality 
+
+ (beth two).
+
+References
+Edit
+1. ^ a b Was Cantor Surprised?, Fernando Q. Gouvêa
+* Paul Halmos, Naive set theory. Princeton, NJ: D. Van Nostrand Company, 1960. Reprinted by Springer-Verlag, New York, 1974. ISBN 0-387-90092-6 (Springer-Verlag edition).
+* Jech, Thomas, 2003. Set Theory: The Third Millennium Edition, Revised and Expanded. Springer. ISBN 3-540-44085-2.
+* Kunen, Kenneth, 1980. Set Theory: An Introduction to Independence Proofs. Elsevier. ISBN 0-444-86839-9.
+This article incorporates material from cardinality of the continuum on PlanetMath, which is licensed under the Creative Commons Attribution/Share-Alike License.
+Read in another language
+Last edited 4 months ago by Trovatore
+* 				
+
+* ® MobileDesktop 
+* 		Content is available under CC BY-SA 3.0 unless otherwise noted.
+* 		Terms of UsePrivacyDevelopersCookie statement
+
